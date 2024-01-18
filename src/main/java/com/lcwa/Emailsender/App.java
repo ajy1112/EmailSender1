@@ -12,7 +12,7 @@ public class App
     {
         System.out.println( "Hello World!" );
         GEmailSender gEmailSender = new GEmailSender();
-        String to = "ajaypatil02007@gmail.com";
+        String to = "sunilmore9272@gmail.com";
         String from = "ajaypatil01007@gmail.com";
         String subject = "Sending email with attachment using Java";
         String text = "Hi Sir please check my image";
